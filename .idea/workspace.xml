@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ace1ecab-38ca-4769-bcfc-16226996586e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Herbert\.android\avd\Pixel_4_API_25.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Development\KEYS\debug.keystore" />
+    <option name="KEY_ALIAS" value="androiddebugkey" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1lCqjI1DameWvgpVxaftTW3slYf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="BeneficiosM.beneficios" />
+    <property name="BundleExportedModule" value="BeneficiosM.beneficios" />
+    <property name="DEBUGGABLE_DEVICE" value="Copy_of_Pixel_4_API_25 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.bcp.bo.discounts" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="RF8MA1TR3AP" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-02-14T20:33:18.883Z" />
+    <property name="ExportApk.ApkPath" value="D:\Development" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
+    <property name="android-custom-viewC:/Users/Herbert/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/25.0.0/b6288118e144b830aaa73c678a860f4fd26f9adc/appcompat-v7-25.0.0-sources.jar!/android/support/v7/widget/ContentFrameLayout.java_SELECTED" value="ContentFrameLayout" />
+    <property name="android-custom-viewC:/Users/Herbert/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/26.1.0/4d52cef4a24bf9939de1d256ca9f0974c6e636a4/support-core-ui-26.1.0-sources.jar!/android/support/v4/view/ViewPager.java_SELECTED" value="ViewPager" />
+    <property name="android-custom-viewC:/Users/Herbert/.gradle/caches/modules-2/files-2.1/com.android.support/support-v4/23.4.0/5c2da94919541d12c2173b6ac2f0dee6c0a2c99f/support-v4-23.4.0-sources.jar!/android/support/v4/view/ViewPager.java_SELECTED" value="ViewPager" />
+    <property name="android-custom-viewC:/Users/Herbert/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/Jhamil/AppData/Local/Android/Sdk/sources/android-23/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/Jhamil/AppData/Local/Android/Sdk/sources/android-23/android/widget/ImageView.java_SELECTED" value="ImageView" />
+    <property name="android-custom-viewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomImageView.java_SELECTED" value="CustomImageView" />
+    <property name="android-custom-viewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomSliderLLayout.java_SELECTED" value="CustomSliderLLayout" />
+    <property name="android-custom-viewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomSliderLayout.java_SELECTED" value="CustomSliderLayout" />
+    <property name="android-custom-viewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomSwitchView.java_SELECTED" value="CustomSwitchView" />
+    <property name="android-custom-viewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/ImageTicket.java_SELECTED" value="ImageTicket" />
+    <property name="android-custom-viewC:/Users/Raphael/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/25.0.0/b6288118e144b830aaa73c678a860f4fd26f9adc/appcompat-v7-25.0.0-sources.jar!/android/support/v7/widget/AppCompatImageButton.java_SELECTED" value="AppCompatImageButton" />
+    <property name="android-custom-viewC:/Users/Raphael/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/25.0.0/b6288118e144b830aaa73c678a860f4fd26f9adc/appcompat-v7-25.0.0-sources.jar!/android/support/v7/widget/AppCompatRatingBar.java_SELECTED" value="AppCompatRatingBar" />
+    <property name="android-custom-viewC:/Users/Raphael/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/25.0.0/b6288118e144b830aaa73c678a860f4fd26f9adc/appcompat-v7-25.0.0-sources.jar!/android/support/v7/widget/ContentFrameLayout.java_SELECTED" value="ContentFrameLayout" />
+    <property name="android-custom-viewC:/Users/Raphael/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/26.1.0/4d52cef4a24bf9939de1d256ca9f0974c6e636a4/support-core-ui-26.1.0-sources.jar!/android/support/v4/view/ViewPager.java_SELECTED" value="ViewPager" />
+    <property name="android-custom-viewD:/AndroidStudioProjects/BENE EDIT/Beneficios 13-05/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomImageView.java_SELECTED" value="CustomImageView" />
+    <property name="android-custom-viewD:/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/slidingmenu/lib/CustomViewAbove.java_SELECTED" value="CustomViewAbove" />
+    <property name="android-custom-viewD:/Beneficios20220727/beneficios/src/main/java/com/slidingmenu/lib/CustomViewAbove.java_SELECTED" value="CustomViewAbove" />
+    <property name="android-custom-viewD:/BeneficiosM/beneficios/src/main/java/com/slidingmenu/lib/SlidingMenu.java_SELECTED" value="SlidingMenu" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../Android Tools/SDK" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="device.picker.selection" value="cc9f2f8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Agenda" />
+    <property name="multi-representation-previewC:/Users/Jhamil/AppData/Local/Android/Sdk/sources/android-23/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Jhamil/AppData/Local/Android/Sdk/sources/android-23/android/widget/ImageView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomImageView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomSliderLLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomSliderLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomSwitchView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Jhamil/Desktop/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/ImageTicket.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Raphael/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/25.0.0/b6288118e144b830aaa73c678a860f4fd26f9adc/appcompat-v7-25.0.0-sources.jar!/android/support/v7/widget/AppCompatImageButton.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Raphael/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/25.0.0/b6288118e144b830aaa73c678a860f4fd26f9adc/appcompat-v7-25.0.0-sources.jar!/android/support/v7/widget/AppCompatRatingBar.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Raphael/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/25.0.0/b6288118e144b830aaa73c678a860f4fd26f9adc/appcompat-v7-25.0.0-sources.jar!/android/support/v7/widget/ContentFrameLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Raphael/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/26.1.0/4d52cef4a24bf9939de1d256ca9f0974c6e636a4/support-core-ui-26.1.0-sources.jar!/android/support/v4/view/ViewPager.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/AndroidStudioProjects/BENE EDIT/Beneficios 13-05/BeneficiosM/beneficios/src/main/java/com/bcp/bo/discounts/views/CustomImageView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewD:/BENE EDIT/Beneficios/BeneficiosM/beneficios/src/main/java/com/slidingmenu/lib/CustomViewAbove.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.2.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BC2356\Projects\androidProjects\BeneficiosRoot\AndroidX_v2\BeneficiosM\beneficios\src\main\res\values" />
+      <recent name="C:\Users\BC2356\Projects\androidProjects\BeneficiosRoot\AndroidX_v2\BeneficiosM\beneficios" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="beneficios" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Beneficios20220727.beneficios" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace1ecab-38ca-4769-bcfc-16226996586e" name="Default Changelist" comment="" />
+      <created>1564521953546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564521953546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>255</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>360</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>380</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>453</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>322</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>323</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>324</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>293</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>205</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>245</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>285</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailItemActive.java</url>
+          <line>446</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>246</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>247</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>295</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>286</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>287</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>288</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>289</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>291</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>292</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>293</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailItemActive.java</url>
+          <line>447</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>305</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>512</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailItemActive.java</url>
+          <line>443</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>216</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>241</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>259</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>271</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>306</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>311</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>381</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>325</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailItemActive.java</url>
+          <line>647</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailItemActive.java</url>
+          <line>648</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailItemActive.java</url>
+          <line>611</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailItemActive.java</url>
+          <line>610</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/src/main/java/bcp/bo/service/ServiceLauncher.java</url>
+          <line>297</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/src/main/java/bcp/bo/service/ServiceLauncher.java</url>
+          <line>309</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>560</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>561</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/general/AlertMsg.java</url>
+          <line>467</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/general/AlertMsg.java</url>
+          <line>400</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>536</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>386</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/service/src/main/java/bcp/bo/service/model/request/Login.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>270</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>357</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>286</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/list/DscListLayout.java</url>
+          <line>312</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/list/DscListLayout.java</url>
+          <line>313</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/list/DscListLayout.java</url>
+          <line>314</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/list/DscListLayout.java</url>
+          <line>315</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/list/DscListLayout.java</url>
+          <line>316</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>383</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>387</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>389</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>314</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>316</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>313</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/base/BaseLayout.java</url>
+          <line>475</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/base/BaseLayout.java</url>
+          <line>477</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/base/BaseLayout.java</url>
+          <line>479</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/base/BaseLayout.java</url>
+          <line>480</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>349</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>351</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>352</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>354</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>357</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>360</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>363</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>364</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>365</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>367</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>371</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>424</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>425</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>426</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>429</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>430</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>431</line>
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>434</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>435</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>438</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>439</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>440</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>442</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>443</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>444</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>445</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>446</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>497</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>498</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>210</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>211</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>212</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>215</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>216</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>217</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>230</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>231</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>232</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>233</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>504</line>
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>505</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>381</line>
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>382</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>392</line>
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>385</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>326</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>327</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapRouteLayout.java</url>
+          <line>96</line>
+          <properties class="com.bcp.bo.discounts.layouts.discount.map.DscMapRouteLayout" method="&lt;init&gt;" />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>61</line>
+          <properties method="getView" />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>347</line>
+          <properties class="com.bcp.bo.discounts.layouts.home.HomeLayout" />
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>423</line>
+          <properties class="com.bcp.bo.discounts.layouts.discount.DscHomeListMapLayout" method="loadPromotionsTop" />
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>432</line>
+          <properties class="com.bcp.bo.discounts.layouts.discount.DscHomeListMapLayout" method="loadPromotions" />
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/DscHomeListMapLayout.java</url>
+          <line>441</line>
+          <properties class="com.bcp.bo.discounts.layouts.discount.DscHomeListMapLayout" method="reloadCategories" />
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>496</line>
+          <properties class="com.bcp.bo.discounts.layouts.home.HomeLayout" />
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/map/DscMapLayout.java</url>
+          <line>503</line>
+          <properties class="com.bcp.bo.discounts.layouts.discount.map.DscMapLayout" method="loadProducts" />
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/home/HomeLayout.java</url>
+          <line>379</line>
+          <properties class="com.bcp.bo.discounts.layouts.home.HomeLayout" />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint type="java-field">
+          <url>file://$PROJECT_DIR$/service/src/main/java/bcp/bo/service/ServiceLauncher.java</url>
+          <line>121</line>
+          <properties field="Status" class="bcp.bo.service.ServiceLauncher.RequestPOSTTask" />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-field">
+          <url>file://$PROJECT_DIR$/service/src/main/java/bcp/bo/service/ServiceLauncher.java</url>
+          <line>251</line>
+          <properties field="Status" class="bcp.bo.service.ServiceLauncher.RequestGETTask" />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-field">
+          <url>file://$PROJECT_DIR$/beneficios/src/main/java/com/bcp/bo/discounts/layouts/discount/detail/DetailLayout.java</url>
+          <line>79</line>
+          <properties field="_category" class="com.bcp.bo.discounts.layouts.discount.detail.DetailLayout" />
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="contact" />
+        <watch expression="contact" language="JAVA" />
+      </configuration>
+      <configuration name="beneficios">
+        <watch expression="((Display)this.mDisplay).mTempMetrics" custom="com.bcp.bo.discounts.util.ImageDownloader,android.view.Display,com.bcp.bo.discounts.activities.StartActivity,android.view.View" />
+        <watch expression="((View)((StartActivity)((ImageDownloader)((StartActivity)context).imageDownloader).activity).vBlock).mUserPaddingRight" custom="com.bcp.bo.discounts.util.ImageDownloader,com.bcp.bo.discounts.activities.StartActivity,android.view.View" />
+        <watch expression="((DetailLayout)layoutToShow)._promotions" custom="com.bcp.bo.discounts.layouts.discount.detail.DetailLayout" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 29 Platform (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

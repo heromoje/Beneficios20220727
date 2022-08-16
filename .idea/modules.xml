@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Beneficios20220727.iml" filepath="$PROJECT_DIR$/.idea/modules/Beneficios20220727.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beneficios/Beneficios20220727.beneficios.iml" filepath="$PROJECT_DIR$/.idea/modules/beneficios/Beneficios20220727.beneficios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/facebook/Beneficios20220727.facebook.iml" filepath="$PROJECT_DIR$/.idea/modules/facebook/Beneficios20220727.facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/Beneficios20220727.service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/Beneficios20220727.service.iml" />
+    </modules>
+  </component>
+</project>

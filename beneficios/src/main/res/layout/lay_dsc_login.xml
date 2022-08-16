@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/ivCardTop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@null"
+        android:src="@drawable/letbjls" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="255dp"
+        android:layout_marginTop="50dp"
+        android:text="Tus Beneficios"
+        android:textColor="#E35414"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="184dp"
+        android:layout_height="56dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="128dp"
+        android:text="Bienvenido!"
+        android:textColor="#1A3256"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="280dp"
+        android:layout_height="56dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="175dp"
+        android:text="Ingresa tus datos a continuación: "
+        android:textColor="#1A3256"
+        android:textSize="18sp" />
+
+    <com.bcp.bo.discounts.views.KenBurnsLayout
+        android:id="@+id/kblBackground"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/linearLayout"
+        android:layout_marginTop="0dp">
+
+
+    </com.bcp.bo.discounts.views.KenBurnsLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rlCard"
+        android:layout_width="371dp"
+        android:layout_height="302dp"
+        android:layout_centerInParent="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:layout_width="220dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="220dp"
+            android:background="#ECEAEA">
+
+            <ImageButton
+                android:id="@+id/button_ComplementDelete"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/lgn_etcic_icon_del"
+                android:visibility="gone" />
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp">
+
+                <EditText
+                    android:id="@+id/etComp"
+                    style="@style/loginTextCic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:gravity="center"
+                    android:hint="Complemento*"
+                    android:imeActionId="@+id/bLogin"
+                    android:imeOptions="actionNext"
+                    android:inputType="textPersonName"
+                    android:maxLength="@integer/login_input_max_length"
+                    android:maxLines="1"
+                    android:paddingLeft="@dimen/marginMedium"
+                    android:singleLine="true" />
+            </android.support.design.widget.TextInputLayout>
+        </RelativeLayout>
+
+
+
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="480dp"
+            android:layout_below="@+id/ivCardTop"
+            android:layout_alignStart="@+id/ivCardBottom"
+            android:layout_alignLeft="@id/ivCardBottom"
+            android:layout_alignTop="@id/ivCardBottom"
+            android:layout_alignEnd="@+id/ivCardBottom"
+            android:layout_alignRight="@id/ivCardBottom"
+            android:layout_alignBottom="@id/ivCardBottom"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true">
+
+
+            <LinearLayout
+                android:id="@+id/llCardBottom"
+                android:layout_width="369dp"
+                android:layout_height="450dp"
+                android:layout_above="@id/bLogin"
+                android:layout_marginBottom="-336dp"
+                android:orientation="vertical"
+                android:paddingRight="2dp">
+
+
+                <RelativeLayout
+                    android:layout_width="193dp"
+                    android:layout_height="55dp"
+                    android:layout_marginBottom="@dimen/marginVerySmall"
+                    android:background="#ECEAEA">
+
+
+                    <ImageButton
+                        android:id="@+id/button_Delete"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/marginSmall"
+                        android:background="@drawable/lgn_etcic_icon_del"
+                        android:visibility="gone" />
+
+
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="49dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginTop="6dp"
+                        android:layout_marginEnd="0dp"
+                        android:layout_marginRight="0dp"
+                        android:layout_marginBottom="0dp">
+
+                        <EditText
+                            android:id="@+id/etCic"
+                            style="@style/loginTextCic"
+                            android:layout_width="160dp"
+                            android:layout_height="wrap_content"
+                            android:background="@null"
+                            android:gravity="center"
+                            android:hint="@string/LGN_CIC"
+                            android:imeActionId="@+id/bLogin"
+                            android:imeOptions="actionNext"
+                            android:inputType="number"
+                            android:maxLength="@integer/login_input_max_length"
+                            android:maxLines="1"
+                            android:paddingLeft="@dimen/marginMedium"
+                            android:singleLine="true" />
+                    </android.support.design.widget.TextInputLayout>
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="55dp"
+                    android:layout_marginTop="18dp"
+                    android:layout_marginBottom="@dimen/marginVerySmall"
+                    android:background="@drawable/lgn_box_dni">
+
+
+                    <Button
+                        android:id="@+id/button_Extension"
+
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="#ECEAEA"
+                        android:gravity="center"
+                        android:text="@string/LGN_EXTENSION"
+                        android:textColor="#1A3256"
+                        android:visibility="visible" />
+
+                </RelativeLayout>
+
+
+                <TextView
+                    android:id="@+id/tvBenefits"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:tag="formataRegular"
+                    android:text="@string/LGN_COMPLEMENT_MESSAGE"
+                    android:textColor="#1A3256"
+                    android:textSize="11dp" />
+
+                <Button
+                    android:id="@+id/bLogin"
+                    style="@style/loginButtonEnter"
+                    android:layout_width="177dp"
+                    android:layout_height="55dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginLeft="92dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="@dimen/marginSmall"
+                    android:layout_marginBottom="@dimen/marginSmall"
+                    android:background="@drawable/lgn_btn_accept"
+                    android:text="@string/BTN_ENTER"
+                    android:visibility="visible" />
+
+                <CheckBox
+                    android:id="@+id/checkBox2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="90dp"
+                    android:text="Recuerda mis datos"
+                    android:textColor="#1A3256" />
+
+                <ImageView
+                    android:layout_width="181dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="130dp"
+                    android:src="@drawable/logo_asfi" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/rlCard"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="-2dp"
+                    android:contentDescription="@null"
+                    android:src="@drawable/legend_aj"
+                    android:visibility="gone"
+                    tools:visibility="gone" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="end"
+                    android:layout_weight="1"
+                    android:contentDescription="@null"
+                    android:src="@drawable/logo_aj" />
+
+
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/textView1_Auto"
+        android:layout_width="285dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rlCard"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="520dp"
+        android:layout_marginRight="16dp"
+        android:gravity="center_horizontal|top"
+        android:tag="formataMedium"
+        android:text="Promoción Empresarial Autorizada y Fiscalizada por la Autoridad de Fiscalización del Juego y ASFI\nActividad de Carácter Permanente Autorizada y Fiscalizada por ASFI"
+        android:textStyle="bold" />
+    <ImageView
+        android:layout_width="88dp"
+        android:layout_height="36dp"
+        android:layout_gravity="start"
+        android:layout_marginLeft="62dp"
+        android:layout_marginTop="610dp"
+        android:contentDescription="@null"
+        android:src="@drawable/logo_aj" />
+
+    <ImageView
+        android:layout_width="88dp"
+        android:layout_height="36dp"
+        android:layout_gravity="start"
+        android:layout_marginLeft="208dp"
+        android:layout_marginTop="610dp"
+        android:contentDescription="@null"
+        android:src="@drawable/logo_asfi" />
+
+
+</RelativeLayout>
+

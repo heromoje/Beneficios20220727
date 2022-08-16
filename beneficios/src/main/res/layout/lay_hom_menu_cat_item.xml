@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Category -->
+
+    <LinearLayout
+        android:id="@+id/llCategory"
+        android:layout_width="match_parent"
+        android:layout_height="217dp"
+        android:background="#EEEEEE"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        tools:ignore="UselessParent" >
+
+        <ImageView
+            android:id="@+id/imageView_CategoryIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@null" />
+
+        <!--       <TextView
+                   android:id="@+id/textView_Counter"
+                   android:textColor="#000000"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_alignParentRight="true"
+                   android:layout_centerVertical="true"
+                   android:layout_marginRight="@dimen/marginMedium"
+                   android:maxLines="1"
+                   android:singleLine="true"
+                   />-->
+
+        <TextView
+            android:id="@+id/textView_Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:textColor="#000000" />
+
+    </LinearLayout>
+
+</LinearLayout>
